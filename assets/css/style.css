@@ -14,13 +14,14 @@ section[class="treeContainer"]{
 }
 
 article{
-    width:200px;
+    width:30%;
     box-shadow: 5px 5px 5px black;
     text-align: center;
-    padding: 5px
+    padding: 10px;
 }
 
 img{
     margin:auto;
-    width: 150px
+    width: 70%;
 }
+
